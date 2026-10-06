@@ -115,6 +115,4 @@ JobHunt/
 
 ---
 
-<div align="center">
-Made with ❤️ by Abhimanyu
-</div>
+
